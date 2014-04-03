@@ -23,6 +23,10 @@ public class Calc {
     public int getSum(){
         return a+b;
     }
+    
+    public int getSubs(){
+        return a-b;
+    }
 
     /**
      * @return the a
