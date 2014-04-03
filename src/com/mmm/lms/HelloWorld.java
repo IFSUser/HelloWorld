@@ -21,7 +21,7 @@ public class HelloWorld {
         // TODO code application logic here
         System.out.println("HelloWorld");
         
-        Add a=new Add(1,1);
+        Calc a=new Calc(1,1);
         System.out.println("sum is : "+a.getSum());
     }
     

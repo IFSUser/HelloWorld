@@ -10,12 +10,12 @@ package com.mmm.lms;
  *
  * @author A4M84ZZ
  */
-public class Add {
+public class Calc {
     
     private int a;
     private int b;
     
-    public Add(int a, int b){
+    public Calc(int a, int b){
         this.a=a;
         this.b=b;
     }
